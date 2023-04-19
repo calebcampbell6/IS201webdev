@@ -1,0 +1,39 @@
+img{
+    display: block;
+    width: 50%;
+    
+}
+
+body{
+    background-color: rgb(192, 187, 187);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+   
+}
+
+.video{
+    text-decoration:underline;
+    color:darkslategrey
+    
+}
+
+.listtitle{
+    text-decoration: underline;
+}
+
+.marina{
+    font-weight: bold;
+    color: black
+}
+
+.header{
+    font-weight: bold;
+    text-decoration:underline;
+}
+
+.link{
+    font-size: 20px;
+    text-decoration: underline;
+}
